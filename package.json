@@ -1,0 +1,42 @@
+{
+  "name": "mitra-kerjasama",
+  "version": "1.0.0",
+  "description": "Mitra & Kerjasama - Platform Kolaboratif untuk Pendidikan Indonesia",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest --coverage",
+    "test:watch": "jest --watch",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write \"**/*.{js,json,md}\"",
+    "build": "echo \"Build script here\"",
+    "deploy": "echo \"Deploy script here\""
+  },
+  "keywords": [
+    "education",
+    "IPS",
+    "learning",
+    "collaboration",
+    "Indonesia"
+  ],
+  "author": "Catatan Guru IPS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guruips/mitra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guruips/mitra/issues"
+  },
+  "homepage": "https://github.com/guruips/mitra#readme",
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "jest": "^29.0.0",
+    "nodemon": "^2.0.0",
+    "prettier": "^2.8.0"
+  },
+  "dependencies": {}
+}
