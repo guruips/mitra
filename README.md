@@ -101,11 +101,10 @@ Untuk dokumentasi lengkap, silakan lihat:
 
 ## 📞 Hubungi Kami
 
-- 📧 Email: [contact@catatangurulps.com](mailto:contact@catatangurulps.com)
-- 🌐 Website: [www.catatangurulps.com](https://www.catatangurulps.com)
-- 💬 Discord: [Join Community](https://discord.gg/catatangurulps)
-- 📱 Instagram: [@catatangurulps](https://instagram.com/catatangurulps)
-- 🐦 Twitter: [@catatangurulps](https://twitter.com/catatangurulps)
+- 📧 Email: [mail@toer.my.id](mailto:mail@toer.my.id)
+- 🌐 Website: [www.toer.my.id](https://www.toer.my.id)
+- 📱 Instagram: [@kangtoer](https://instagram.com/kangtoer)
+- 🐦 Twitter: [@kangtoer](https://twitter.com/kangtoer)
 
 ## 👥 Tim Inti
 
